@@ -1,0 +1,1 @@
+declare type TypesMenu = 'home' | 'about' | 'features' | 'services' | 'pricing' | 'contact'

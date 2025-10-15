@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.alex-brush-regular {
+  font-family: 'Alex Brush', cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.font-cormorant {
+    font-family: 'Cormorant Garamond', serif;
+  }
+
+.initials {
+    font-family: 'Great Vibes', cursive;
+}
+
+.font-jomolhari {
+  font-family: 'Jomolhari', serif;
+}
+
+.font-italianno {
+  font-family: 'Italianno', cursive;
+}
+
+.footer {
+  @apply bg-white py-8 px-2 md:px-10 md:py-12 lg:px-20 xl:px-40 
+}
+
+.footer__bridal-item-cont {
+  @apply flex justify-center items-center space-x-3 h-full;
+}
+
+ .footer__sponsor-carousel-item-img {
+   @apply object-cover w-full h-full rounded-xl shadow-md
+} 
+
+.footer__bridal-carousel-arrow {
+  @apply !bg-transparent md:hover:!bg-white/25;
+}
+
+.footer__bridal-carousel-arrow-prev {
+  @apply !left-0;
+}
+
+.footer__bridal-carousel-arrow-next {
+  @apply !right-0;
+}
