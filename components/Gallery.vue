@@ -64,3 +64,4 @@ const options = {
     </div>
   </div>
 </template>
+<!-- yarn add @splidejs/splide-extension-grid @splidejs/vue-splide -->
