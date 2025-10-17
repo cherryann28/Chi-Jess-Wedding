@@ -10,13 +10,11 @@
         RSVP
       </a>
 
-      <!-- <p class="text-[#0a0f3a] text-lg sm:text-xl md:text-2xl lg:text-2xl mt-8 font-bold font-jomolhari">BY THE NOVEMBER 3<sup>rd</sup> 2025</p> -->
-      <p class="text-[#0f487e] text-base sm:text-lg md:text-xl lg:text-2xl mt-8 font-bold font-jomolhari">BY THE NOVEMBER 15<sup>th</sup> 2025</p>
+      <p class="text-[#0f487e] text-base sm:text-lg md:text-xl lg:text-2xl mt-8 font-bold font-jomolhari">By the 15<sup>th</sup> of November, 2025</p>
       <p class="text-[15px] md:text-lg lg:text-xl mt-2 font-jomolhari italic text-center text-[#23557e]">Please click the RSVP button & kindly fill out the form to confirm your attendance</p>
     </div>
     <div class="mt-4">
       <div class="min-h-[300px] md:min-h-[500px] lg:min-h-[700px] xl:min-h-[1000px]  flex items-center bg-[url('/images/footer-bg.jpg')] bg-no-repeat bg-cover bg-[100%_50%]"></div>
-      <!-- <div class="absolute top-0 right-0 bottom-0 left-0 bg-[#15364D] opacity-80"></div> -->
     </div>
 
   </div>
