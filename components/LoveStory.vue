@@ -18,13 +18,6 @@
           <p>
             Days turned into months. We got to know each other better, and one thing we both loved was snacking. From sharing biscuits, candies, chocolates, and marshmallows, we began sharing laughter, stories, and little moments that made our bond grow stronger.
           </p>
-
-          <!--
-          <p>
-            The years that followed were filled with love, adventures, travels, challenges, and endless support for each other. From being workmates to best friends, and from best friends to lifelong partners, our journey led us here to the day we finally say “I do.”
-          </p>
-          <p> Now, after more than a decade of love and laughter, we are excited to begin our next chapter as husband and wife. 💕</p>
-          <p>Join us as we celebrate the love story that started with a smile, a shared ride, and a pack of snacks (and marshmallows, of course).</p> -->
         </div>
       </div>
       <div class="mt-4 md:mt-10 text-white text-center text-[15px] md:text-base lg:text-lg font-jomolhari italic flex flex-col gap-4">
