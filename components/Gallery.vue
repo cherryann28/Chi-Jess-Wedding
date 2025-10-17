@@ -12,6 +12,12 @@ const items = [
   { name: 'bridal9', background: 'bridal9.jpg' },
   { name: 'bridal10', background: 'bridal10.jpg' },
   { name: 'bridal11', background: 'bridal11.jpg' },
+  { name: 'bridal12', background: 'bridal12.jpg' },
+  { name: 'bridal13', background: 'bridal13.jpg' },
+  { name: 'bridal14', background: 'bridal14.jpg' },
+  { name: 'bridal15', background: 'bridal15.jpg' },
+  { name: 'bridal16', background: 'bridal16.jpg' },
+  { name: 'bridal17', background: 'bridal17.jpg' },
 ]
 
 const splide = ref()
@@ -64,4 +70,3 @@ const options = {
     </div>
   </div>
 </template>
-<!-- yarn add @splidejs/splide-extension-grid @splidejs/vue-splide -->
