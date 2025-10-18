@@ -5,7 +5,7 @@
       <h3 class="text-[#23557e] text-xl text-center md:text-2xl lg:text-3xl xl:text-4xl">DRESS CODE</h3>
       <div class="max-w-2xl mx-auto">
         <p class="md:my-8 text-[#555] text-[15px] md:text-lg lg:text-xl text-center">
-          Please wear attire in shades of blue (dusty, cornich, navy, powder, or royal blue).
+          Please wear attire in shades of blue (dusty, corniche, navy, powder, or royal blue).
           Ladies are encouraged to wear long dresses, while gentlemen may wear formal or semi-formal attire.
           Kindly ensure your outfit is suitable for a church setting.
         </p>
