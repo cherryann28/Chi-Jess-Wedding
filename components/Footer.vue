@@ -10,11 +10,6 @@
       <p class="text-[#0f487e] text-base sm:text-lg md:text-xl lg:text-2xl mt-8 font-bold font-jomolhari">By the 15<sup>th</sup> of November, 2025</p>
       <p class="text-[15px] md:text-lg lg:text-xl mt-2 font-jomolhari italic text-center text-[#23557e]">Please click the RSVP button & kindly fill out the form to confirm your attendance</p>
     </div>
-
-    <!-- video here -->
-    <div class="flex justify-center mt-8 px-4">
-      <iframe class="rounded-2xl shadow-lg w-full max-w-3xl h-[180px] sm:h-[400px] md:h-[400px] lg:h-[500px]" src="https://www.youtube.com/embed/VQtCrgoExDM?autoplay=1&mute=1&loop=1&playlist=VQtCrgoExDM" title="Chi and Jess Save The Date" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-    </div>
     <div class="mt-4">
       <div class="min-h-[300px] md:min-h-[500px] lg:min-h-[700px] xl:min-h-[1000px]  flex items-center bg-[url('/images/footer-bg.jpg')] bg-no-repeat bg-cover bg-[100%_50%]"></div>
     </div>
