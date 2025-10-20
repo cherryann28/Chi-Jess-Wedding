@@ -34,6 +34,12 @@
           Join us as we celebrate the love story that started with a smile, a shared ride, and a pack of snacks (and marshmallows, of course).
         </p>
       </div>
+
+      <!-- video here -->
+      <div class="flex justify-center mt-8 px-4">
+        <iframe class="rounded-2xl shadow-lg w-full max-w-4xl h-[180px] sm:h-[400px] md:h-[450px] lg:h-[500px]" src="https://www.youtube.com/embed/VQtCrgoExDM?autoplay=1&mute=1&loop=1&playlist=VQtCrgoExDM" title="Chi and Jess Save The Date" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+      </div>
+
     </div>
   </div>
 </template>
