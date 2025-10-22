@@ -88,9 +88,9 @@ onUnmounted(() => {
           <div>We invite you to join us in the <br> celebration of our love and commitment</div>
         </div>
 
-        <a href="https://docs.google.com/forms/d/14aC3TWy41O9VxfNS_DgXowdKWpJlTeTAm8gTeUgv0Xw/edit" target="_blank" rel="noopener noreferrer" class="bg-[#22619A] font-jacques text-white md:mt-2 text-[15px] md:text-lg lg:text-xl px-16 sm:px-20 py-1 inline-block relative">
+        <!-- <a href="https://docs.google.com/forms/d/14aC3TWy41O9VxfNS_DgXowdKWpJlTeTAm8gTeUgv0Xw/edit" target="_blank" rel="noopener noreferrer" class="bg-[#22619A] font-jacques text-white md:mt-2 text-[15px] md:text-lg lg:text-xl px-16 sm:px-20 py-1 inline-block relative">
           RSVP
-        </a>
+        </a> -->
 
       </div>
     </div>

@@ -29,7 +29,7 @@
         <h2 class="text-[15px] md:text-2xl font-bold text-[#0f487e] font-jomolhari italic  text-center mb-2">Principal Sponsors</h2>
         <div class="grid grid-cols-2 gap-2 text-center" data-aos="fade-up">
           <div>
-            <p class="font-jomolhari text-xs md:text-base">Margi N. Cagyat</p>
+            <p class="font-jomolhari text-xs md:text-base">Margie N. Cagyat</p>
             <p class="font-jomolhari text-xs md:text-base">Marites E. Fortes</p>
             <p class="font-jomolhari text-xs md:text-base">Marilou M. Passion</p>
             <p class="font-jomolhari text-xs md:text-base">Engr. Roe Ann O. Salili</p>
