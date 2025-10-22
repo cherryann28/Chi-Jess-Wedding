@@ -27,22 +27,22 @@
       </h3>
 
       <!-- Ceremony Venue -->
-      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-12 w-full max-w-6xl">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-12 w-full max-w-4xl">
         <div class="rounded-xl overflow-hidden" data-aos="fade-up">
-          <NuxtImg src="/images/metropolitan-church.jpg" class="w-full h-[350px] object-cover block" format="webp" quality="100" alt="Church" />
+          <NuxtImg src="/images/metropolitan-church.jpg" class="w-full h-[300px] object-cover block" format="webp" quality="100" alt="Church" />
         </div>
         <div class="rounded-xl overflow-hidden" data-aos="fade-up">
-          <iframe title="Manila Cathedral Map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.128595118585!2d120.97081717574126!3d14.591747377292036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca17d22e6779%3A0x6a3a0ef7daa839d!2sMinor%20Basilica%20and%20Metropolitan%20Cathedral%20of%20the%20Immaculate%20Conception%20-%20The%20Manila%20Cathedral!5e0!3m2!1sen!2sph!4v1759353729955!5m2!1sen!2sph" class="w-full h-[350px] border-0 block" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+          <iframe title="Manila Cathedral Map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.128595118585!2d120.97081717574126!3d14.591747377292036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca17d22e6779%3A0x6a3a0ef7daa839d!2sMinor%20Basilica%20and%20Metropolitan%20Cathedral%20of%20the%20Immaculate%20Conception%20-%20The%20Manila%20Cathedral!5e0!3m2!1sen!2sph!4v1759353729955!5m2!1sen!2sph" class="w-full h-[300px] border-0 block" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
         </div>
       </div>
 
       <!-- Reception Venue -->
-      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-12 w-full max-w-6xl">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-12 w-full max-w-4xl">
         <div class="rounded-xl overflow-hidden" data-aos="fade-up">
-          <NuxtImg src="/images/rm-plaza.jpg" class="w-full h-[350px] md:h-[500px] object-cover block" format="webp" quality="100" alt="Reception Venue" />
+          <NuxtImg src="/images/rm-plaza.jpg" class="w-full h-[300px] md:h-[400px] object-cover block" format="webp" quality="100" alt="Reception Venue" />
         </div>
         <div class="rounded-xl overflow-hidden" data-aos="fade-up">
-          <iframe title="Ramon Magsaysay Center Map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.477739411769!2d120.97964407574099!3d14.571832177779102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca2b818370f9%3A0xd959640d08c21c46!2sRamon%20Magsaysay%20Center%2C%201680%20Roxas%20Blvd%2C%20Malate%2C%20Manila%2C%201004%20Metro%20Manila!5e0!3m2!1sfil!2sph!4v1760220627392!5m2!1sfil!2sph" class="w-full h-[350px] md:h-[500px] border-0 block" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+          <iframe title="Ramon Magsaysay Center Map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.477739411769!2d120.97964407574099!3d14.571832177779102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca2b818370f9%3A0xd959640d08c21c46!2sRamon%20Magsaysay%20Center%2C%201680%20Roxas%20Blvd%2C%20Malate%2C%20Manila%2C%201004%20Metro%20Manila!5e0!3m2!1sfil!2sph!4v1760220627392!5m2!1sfil!2sph" class="w-full h-[300px] md:h-[400px] border-0 block" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
         </div>
       </div>
     </div>

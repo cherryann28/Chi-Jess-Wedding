@@ -17,7 +17,7 @@ const items = [
   { name: 'bridal14', background: 'bridal14.jpg' },
   { name: 'bridal15', background: 'bridal15.jpg' },
   { name: 'bridal16', background: 'bridal16.jpg' },
-
+  { name: 'bridal17', background: 'bridal17.jpg' },
 ]
 
 const splide = ref()
@@ -54,7 +54,7 @@ const options = {
 <template>
   <div class="footer">
     <div class="md:mb-4">
-      <h3 class=" text-[#22619A] text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-alex text-center mb-6 md:mb-12" data-aos="fade-up"> <!--text-[#1b3164] -->
+      <h3 class="text-[#22619A] text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-alex text-center mb-6 md:mb-12" data-aos="fade-up"> <!--text-[#1b3164] -->
         Our Prenuptial Shoot
       </h3>
 

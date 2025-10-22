@@ -129,6 +129,9 @@ watch(() => [homeVisible, aboutVisible, featuresVisible, servicesVisible, pricin
       <Details />
     </section>
     <section>
+      <Entourage />
+    </section>
+    <section>
       <Footer />
     </section>
   </div>

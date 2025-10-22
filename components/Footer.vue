@@ -4,7 +4,7 @@
       <h2 class="font-alex text-3xl md:text-4xl lg:text-5xl xl:text-6xl">Kindly</h2>
       <h3 class="text-6xl md:text-7xl lg:text-8xl xl:text-9xl font-jomolhari">RS</h3>
       <h3 class="text-6xl md:text-7xl lg:text-8xl xl:text-9xl font-jomolhari">VP</h3>
-      <a href="https://docs.google.com/forms/d/14aC3TWy41O9VxfNS_DgXowdKWpJlTeTAm8gTeUgv0Xw/edit" target="_blank" rel="noopener noreferrer" class="font-jomolhari bg-[#22619A] hover:bg-[#1f2b8f] hover:shadow-lg hover:shadow-blue-300/40 transition duration-300 mt-5 text-white md:mt-2 text-base md:text-lg lg:text-xl px-16 sm:px-20 py-1 inline-block relative">
+      <a href="https://docs.google.com/forms/d/14aC3TWy41O9VxfNS_DgXowdKWpJlTeTAm8gTeUgv0Xw/edit" target="_blank" rel="noopener noreferrer" class="font-jomolhari bg-[#22619A] hover:bg-[#3b82f6] hover:shadow-lg hover:shadow-blue-300/40 transition duration-300 mt-5 text-white md:mt-2 text-base md:text-lg lg:text-xl px-16 sm:px-20 py-1 inline-block relative">
         RSVP
       </a>
       <p class="text-[#0f487e] text-base sm:text-lg md:text-xl lg:text-2xl mt-8 font-bold font-jomolhari">By the 15<sup>th</sup> of November, 2025</p>
@@ -15,3 +15,4 @@
     </div>
   </div>
 </template>
+<!-- 3738 + 4125 = 7863 -->
