@@ -37,9 +37,12 @@
         </div>
       </div>
     </div>
-    <!-- video here -->
-    <div class="flex justify-center px-6 pb-10">
+
+    <!-- <div class="flex justify-center px-6 pb-10">
       <iframe class="rounded-2xl shadow-lg w-full max-w-4xl h-[180px] sm:h-[400px] md:h-[450px] lg:h-[500px]" src="https://www.youtube.com/embed/VQtCrgoExDM?autoplay=0&mute=0&loop=1&playlist=VQtCrgoExDM" title="Chi and Jess Save The Date" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    </div> -->
+    <div class="flex justify-center px-6 pb-10">
+      <iframe class="rounded-2xl shadow-lg w-full max-w-4xl h-[180px] sm:h-[400px] md:h-[450px] lg:h-[500px]" src="https://player.vimeo.com/video/1129567584?autoplay=0&muted=0&loop=1" title="Chi and Jess Save The Date" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
 </template>
