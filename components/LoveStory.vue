@@ -41,8 +41,18 @@
     <!-- <div class="flex justify-center px-6 pb-10">
       <iframe class="rounded-2xl shadow-lg w-full max-w-4xl h-[180px] sm:h-[400px] md:h-[450px] lg:h-[500px]" src="https://www.youtube.com/embed/VQtCrgoExDM?autoplay=0&mute=0&loop=1&playlist=VQtCrgoExDM" title="Chi and Jess Save The Date" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
     </div> -->
-    <div class="flex justify-center px-6 pb-10" data-aos="fade-up">
+    <!-- <div class="flex justify-center px-6 pb-10" data-aos="fade-up">
       <iframe class="rounded-2xl shadow-lg w-full max-w-4xl h-[180px] sm:h-[400px] md:h-[450px] lg:h-[500px]" src="https://player.vimeo.com/video/1129567584?autoplay=0&muted=0&loop=1" title="Chi and Jess Save The Date" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    </div> -->
+    <div class="flex justify-center px-6 pb-10" data-aos="fade-up">
+      <div class="relative w-full max-w-4xl rounded-2xl shadow-lg overflow-hidden bg-black">
+        <!-- Aspect ratio box (16:9) -->
+        <div class="pt-[56.25%]"></div>
+
+        <iframe class="absolute top-0 left-0 w-full h-full border-0" src="https://player.vimeo.com/video/1129567584?autoplay=0&muted=0&loop=1" title="Chi and Jess Save The Date" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
+        </iframe>
+      </div>
     </div>
+
   </div>
 </template>
