@@ -12,7 +12,7 @@
       </div>
       <p class="text-[#1b3164] text-base sm:text-lg md:text-2xl my-4 text-center">Suggested Color Palette:</p>
 
-      <div class="flex gap-2 md:gap-8 justify-center">
+      <div class="flex gap-2 md:gap-8 justify-center" data-aos="fade-up">
         <div class="w-14 sm:w-20 md:w-24 lg:w-40 h-6 lg:h-8 bg-[#576e9a] " title="Dusty Blue"></div>
         <div class="w-14 sm:w-20 md:w-24 lg:w-40 h-6 lg:h-8 bg-[#6495ED]" title="Cornflower Blue"></div>
         <div class="w-14 sm:w-20 md:w-24 lg:w-40 h-6 lg:h-8 bg-[#183764]" title="Navy Blue"></div>
